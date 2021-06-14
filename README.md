@@ -4,7 +4,6 @@ Emoji Search
 [Page](https://igorrarruda.github.io/emoji-search/)
 
 
-
 Install
 ---
 
